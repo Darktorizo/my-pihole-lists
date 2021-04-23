@@ -1,2 +1,78 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1616510705,1616510705,"Migrated from /etc/pihole/adlists.list",1619108034,79808,0,2
+3,https://zerodot1.gitlab.io/CoinBlockerLists/list.txt,1,1597866787,1616537906,"Cryptocurency Miners",1619108048,165574,0,2
+4,https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt,1,1597866797,1616537906,"Cryptocurency Miners",1619108049,3553,0,2
+5,https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt,1,1597866805,1616537906,"Cryptocurency Miners",1619108050,793,0,2
+6,https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt,1,1597866824,1616537906,"Cryptocurency Miners",1619108052,689,0,2
+8,https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt,1,1597866850,1616537906,"Cryptocurency Miners",1619108054,5940,0,2
+12,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1597867514,1616537906,DisconTrack,1619108055,34,0,2
+13,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1597867529,1616537906,DisconAd,1619108057,2701,0,2
+14,https://sysctl.org/cameleon/hosts,1,1597867559,1616537906,"Default Pi List",1619108061,20566,0,2
+15,https://v.firebog.net/hosts/Shalla-mal.txt,1,1597871457,1616537906,ShallaList,1619108064,19232,0,2
+23,https://v.firebog.net/hosts/Easyprivacy.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108066,6863,0,2
+24,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1597965813,1616537906,Advertising,1619108068,3670,0,2
+25,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619185212,15152,0,1
+26,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108074,1286,0,2
+27,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108075,376,0,2
+28,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108083,56977,0,2
+30,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108123,340018,0,2
+31,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108125,79,0,2
+32,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108127,226,0,2
+33,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt,1,1597965813,1616537906,"Tracking &amp;amp;amp;amp; Telemetry",1619108129,16,0,2
+34,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1597966027,1616537906,Malicious,1619108130,326,0,2
+35,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1597966027,1616537906,Malicious,1619185243,48,0,1
+36,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1597966027,1616537906,Malicious,1619108135,2735,0,2
+38,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1597966027,1616537906,Malicious,1619108138,13628,0,2
+41,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1597966027,1616537906,Malicious,1619108140,2046,0,2
+42,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1597966027,1616537906,Malicious,1619185254,28650,0,1
+43,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1597966027,1616537906,Malicious,1619108147,353,0,2
+45,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1597966027,1616537906,Malicious,1619108150,8098,0,2
+46,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1597966027,1616537906,Malicious,1619108151,2556,0,2
+47,https://urlhaus.abuse.ch/downloads/hostfile/,1,1597966027,1616537906,Malicious,1619185264,1375,0,1
+49,https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt,1,1597966027,1616537906,Malicious,1619108202,752229,0,2
+50,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1597966070,1616537906,"Cryptocurency Miners",1619108204,3553,0,2
+51,https://adaway.org/hosts.txt,1,1597966147,1616537906,Advertising,1619185314,8763,0,1
+52,https://v.firebog.net/hosts/AdguardDNS.txt,1,1597966147,1616537906,Advertising,1619108213,36421,0,2
+53,https://v.firebog.net/hosts/Admiral.txt,1,1597966147,1616537906,Advertising,1619108215,662,0,2
+54,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1597966147,1616537906,Advertising,1619108221,42296,0,2
+56,https://v.firebog.net/hosts/Easylist.txt,1,1597966147,1616537906,Advertising,1619108225,11533,0,2
+57,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;amp;amp;amp;amp;amp;showintro=0&amp;amp;amp;amp;amp;amp;mimetype=plaintext,1,1597966147,1616537906,Advertising,1619108229,3586,0,2
+58,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1597966147,1616537906,Advertising,1619108231,10,0,2
+59,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1597966147,1616537906,Advertising,1619108235,17604,0,2
+60,https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts,1,1597966147,1616537906,Advertising,1619108237,1831,0,2
+61,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1597966241,1616537906,Suspicious,1619108240,0,0,2
+62,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1597966241,1616537906,Suspicious,1619108242,73,0,2
+63,https://v.firebog.net/hosts/static/w3kbl.txt,1,1597966241,1616537906,Suspicious,1619108245,777,0,2
+64,https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt,1,1597966241,1616537906,Suspicious,1619108247,2056,0,2
+65,https://someonewhocares.org/hosts/zero/hosts,1,1597966241,1616537907,Suspicious,1619108253,15498,0,2
+66,https://raw.githubusercontent.com/vokins/yhosts/master/hosts,1,1597966241,1616537907,Suspicious,1619108256,8929,0,2
+67,https://winhelp2002.mvps.org/hosts.txt,1,1597966241,1616537907,Suspicious,1619108260,8730,0,2
+69,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt,1,1597966241,1616537907,Suspicious,1619185365,41185,0,1
+71,https://v.firebog.net/hosts/AdAway.txt,1,1598202589,1616537907,AdAway,1619108268,8769,0,2
+73,https://v.firebog.net/hosts/Airelle-hrsk.txt,1,1598202661,1616537907,MalWare,1619108274,43065,0,2
+74,https://v.firebog.net/hosts/Prigent-Malware.txt,1,1598202680,1616537907,MalWare,1619108287,137163,0,2
+75,https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt,1,1598745066,1616537907,"Lightswitch05 - Tracking Agressive",1619108293,44724,0,2
+76,https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Malware-Domains-Just-Domains.txt,1,1598814845,1616537907,"Malware Domains Just Domains ",1619108297,26913,0,2
+77,https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt,1,1598814885,1616537907,"Scams and Phishing",1619108300,2521,0,2
+78,https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains,1,1598814935,1616537907,"NextDNS CNAME Cloaking Blocklist",1619108303,22,0,2
+80,https://blocklist.cyberthreatcoalition.org/vetted/domain.txt,1,1598815106,1616537907,"COVID19 Cyber Threat Coalition blocklist",1619108315,122596,0,2
+83,https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/blocklist.txt,1,1598815288,1616537907,"iOS Tracker Blocklist",1619108318,574,0,2
+86,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/blocklist-social-tiktok-extended-127.txt,1,1599399084,1616537907,TikTok,1619108321,2836,0,2
+87,https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easyprivacy-justdomains.txt,1,1599404534,1616537907,Privacy,1619185415,13042,0,1
+91,https://v.firebog.net/hosts/Prigent-Phishing.txt,1,1599405042,1616537907,Phishing,1619108338,137163,0,2
+92,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Peter%20Lowe%E2%80%99s%20Ads%20and%20Tracking%20-%20uBlock%20-%2009.06.2020.txt,1,1599409630,1616537907,"Advertising &amp;amp;amp;amp; Tracking",1619108341,3544,0,2
+93,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/blocklist-SessionReplay%20-%2009.06.2020.txt,1,1599409680,1616537907,"Session Replay",1619108346,24,0,2
+94,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/blocklist-malware-uBlock%20-%2009.06.2020.txt,1,1599409824,1616537907,Malware,1619108351,27943,0,2
+96,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/blocklist-phishing_domains%20-%2009.06.2020.txt,1,1599410297,1616537907,Phishing,1619108354,7866,0,2
+97,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/microsoft-telemetry.txt,1,1599418994,1616537907,Telemetry,1619108358,940,0,2
+98,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/apple-telemetry.txt,1,1599419019,1616537907,Telemetry,1619108361,242,0,2
+99,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/facebook-telemetry.txt,1,1599419049,1616537907,Telemetry,1619108364,3999,0,2
+101,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Facebook.txt,1,1607461700,1616537907,"Facebook Blocking",1619108368,2099,0,2
+103,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Snapchat.txt,1,1607467638,1616537907,"Snapchat Blocking",1619108371,59,0,2
+104,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/TikTok.txt,1,1607467679,1616537907,"TikTok Blocking",1619108374,25,0,2
+105,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/WhatsApp.txt,1,1607467718,1616537907,"WhatsApp Blocking",1619108377,30,0,2
+106,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Regex.txt,1,1607550992,1616537907,"Social Regex",1619108380,0,0,2
+107,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/adguard-instagram.txt,1,1608920451,1616537907,"Instagram Blocklist",1619108383,63,0,2
+108,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Sentry.io.txt,1,1614898522,1616537907,"Sentry.io Blocking",1619108386,25,0,2
+109,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/immortal_domains.txt,1,1615245106,1616537907,"&quot;Immortal&quot; Malware Domains",1619108389,3196,0,2
+110,https://github.com/Darktorizo/DarkPi_001/blob/master/immortal_domains%201.txt,1,1615245450,1616537907,"&quot;Immortal&quot; Malware Domains",1619108393,11,0,2
