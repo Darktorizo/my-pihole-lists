@@ -80,4 +80,4 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 108,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Sentry.io.txt,1,1614898522,1614898522,"Sentry.io Blocking",1619300118,25,0,2
 109,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/immortal_domains.txt,1,1615245106,1615245106,"""Immortal"" Malware Domains",1619300120,3196,0,2
 111,https://github.com/Darktorizo/DarkPi_001/blob/master/immortal_domains_1.txt,1,1619389153,1619389153,"""Immortal"" Malware Domains",1619389547,11,0,1
-112,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Tessa%20iPad.txt,1,1619389311,1619389311,"Tessa&#039;s iPad Blocked Items",1619389549,102,0,1
+112,https://raw.githubusercontent.com/Darktorizo/DarkPi_001/master/Tessa%20iPad.txt,1,1619389311,1619474808,"Tessa&#039;s iPad Blocked Items",1619389549,102,0,1
